@@ -1,0 +1,20 @@
+.jumbotron {
+    margin-top: 5%;
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 100;
+    padding: 5% 5% 5% 5%;
+    background-color: pink;
+    color: rgb(0, 0, 0);
+    border: 1px;
+    border-color: black;
+}
+
+.botonsitoxd { 
+    background-color: rgb(147, 242, 245);
+    color: black;
+    border-bottom: 1px solid red;
+    margin: 5px;
+    padding: 2px;
+    border-radius: 10px;
+}
